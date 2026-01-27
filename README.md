@@ -32,7 +32,7 @@
 |Принятие решения по очистке данных|Опишите, какие шаги предприняты: удаление/замена значений, нормализация, фильтрация и др.|Фильтрация значений, выборка, EDA, удаление|
 |Трансформации / новые признаки|Перечислите созданные дополнительные признаки или преобразования данных|Аккумуляция, математические преобразования, merge, интерполяция|
 |Инструменты / библиотеки|Укажите, какие технологии и библиотеки были использованы (pandas, numpy и т. д.)|pandas, seaborn, matplotlib, os|
-|Ссылка на ноутбук / скрипт в репозитории|Прямые ссылки на файлы с кодом (Jupyter Notebook, .py)|[https://github.com/floatn/QML-for-finance/tree/main](https://github.com/floatn/QML-for-finance/tree/main)|
+|Ссылка на ноутбук / скрипт в репозитории|Прямые ссылки на файлы с кодом (Jupyter Notebook, .py)|[https://github.com/floatn/QML-for-finance/blob/main/qml_code.ipynb](https://github.com/floatn/QML-for-finance/blob/main/qml_code.ipynb), [https://github.com/floatn/QML-for-finance/blob/main/qml_market.ipynb](https://github.com/floatn/QML-for-finance/blob/main/qml_market.ipynb)|
 |Краткое описание результатов предобработки|Итоговый объём данных, устранённые ошибки, готовность к следующему этапу|Итоговый объем данных ~200MB, устранены проблемы c Colab. Возможно, понадобится дополнительная предобработка данных перед работой с SVM моделью.|
 
 ## 4. Формулировка Гипотез - 29.01
